@@ -127,7 +127,7 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-Your Name
+Shai Nachum
 - GitHub: https://github.com/ShaiNachum
 
 ---
